@@ -50,8 +50,8 @@ Un sistema completo de gestión de usuarios desarrollado con React, TypeScript, 
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/sistema-gestion-usuarios.git
-   cd sistema-gestion-usuarios
+   git clone (https://github.com/luis-epic/App-react-node.js)
+   cd App-react-node.js
    ```
 
 2. **Configurar el Backend**
@@ -155,6 +155,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 📧 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@ejemplo.com
+Tu Nombre - [@tu_twitter](https://twitter.com/luis_epico) - Luismartinez.developer@gmail.com
 
-Link del Proyecto: [https://github.com/tu-usuario/sistema-gestion-usuarios](https://github.com/tu-usuario/sistema-gestion-usuarios) 
+Link del Proyecto: [https://github.com/luis-epic/App-react-node.js](https://github.com/luis-epic/App-react-node.js) 
